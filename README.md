@@ -95,12 +95,3 @@ contract JointSavings {
 
     }
 }
-
-## 1 Eth transfer
-![](1 Eth transfer.PNG)
-
-## 5 Eth Transfer
-![](5 Eth transfer.PNG)
-
-## 10 Eth Transfer
-![](10 Eth transfer.PNG)
